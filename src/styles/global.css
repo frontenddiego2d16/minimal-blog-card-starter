@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+
+@theme {
+  --color-primary: #7C19EE;
+  --color-light-purple: #F2EAFD;
+  --color-light-blue: #E5EAF0;
+  --color-off-white: #FAFAF9;
+  --color-white: #FFFFFF;
+  --color-dark-blue: #20293A;
+  --color-dark-gray: #394150;
+
+  --shadow-card-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
+
+  --font-Sora: "Sora", sans-serif;
+}
+
+
+
+
+
+/* “Add names to the colors that start with --color” */
