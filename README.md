@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name} | devChallenges</h1>
+<h1 align="center"> Minimal Blog Card | devChallenges</h1>
 
 <div align="center">
    Solution for a challenge <a href="https://devchallenges.io/challenge/minimal-blog-card" target="_blank">Minimal Blog Card</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="https://minimal-blog-card-starter-jcv0ows6z-frontenddiego2d16s-projects.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://github.com/frontenddiego2d16/minimal-blog-card-starter">
       Solution
     </a>
     <span> | </span>
@@ -29,10 +29,8 @@
 - [Table of Contents](#table-of-contents)
 - [Overview](#overview)
   - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
   - [Built with](#built-with)
 - [Features](#features)
-- [Acknowledgements](#acknowledgements)
 - [Author](#author)
 
 <!-- OVERVIEW -->
@@ -41,47 +39,34 @@
 
 ![screenshot](./src/assets/screenshot.png)
 
-<!--
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- What have you learned/improved?
-- Your wisdom? :)
--->
 
 ### What I learned
-
-<!-- Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge. -->
-
-### Useful resources
-
-<!--
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
--->
+ - Durante el desarrollo de este proyecto aprendí a crear una aplicación con Astro, configurar Tailwind CSS para el diseño y los estilos, trabajar con variables utilizando su sintaxis y añadir fuentes de Google Fonts para personalizar la interfaz.
+ - During the development of this project, I learned how to create an application with Astro, configure Tailwind CSS for styling and design, work with variables using its syntax, and integrate Google Fonts to customize the user interface.
 
 ### Built with
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
 - Semantic HTML5 markup
-- CSS custom properties
+- TailwindCSS custom properties
 - Flexbox
-- CSS Grid
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
+- [Astro](https://astro.build/)
 - [Tailwind](https://tailwindcss.com/)
 
 ## Features
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
-
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
+- Una Imagen
+- Un Título
+- Una Descripción corta
+- Una Etiqueta
+--------------------
+- An image
+- A title
+- A short description
+- A tag
 
 ## Author
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- Tiktok - [@diego_2d_frontend](https://www.tiktok.com/@diego_2d_frontend) ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
+- Youtube - [@Diego2Dfrontend](https://www.youtube.com/@Diego2Dfrontend) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+- Instagram - [@frontenddiego2d](https://www.instagram.com/frontenddiego2d/) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+- Facebook - [/FrontendDiego2D](https://www.facebook.com/FrontendDiego2D/) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
